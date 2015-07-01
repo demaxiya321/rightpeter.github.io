@@ -3,7 +3,7 @@ layout: default
 title: 你好，jekyll
 ---
 
-<h2>{{ page.title }}
+<h2>{{ page.title }}</h2>
 
 <p>第一篇文章</p>
 
